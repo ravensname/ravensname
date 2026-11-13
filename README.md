@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ravensname a student in president university majoring in informatics
-- 👀 I’m interested in IoT, mobile programming, and machine learning
-- 🌱 I’m currently learning python and java
+- 👋 Hi, I’m @ravensname an informatics graduate, working in Data
 
 
 <!---
